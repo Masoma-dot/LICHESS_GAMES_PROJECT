@@ -3,18 +3,22 @@ This project analyses chess game data using Tableau dashboards, Excel, and SQL. 
 
 
 NAVIGATING THE LICHESS GAMES CASE STUDY 
+
 ASK 
-- Chess_Games_Case_Study 
+- Chess_Games_Case_Study
+  
 PREPARE 
 - games.csv zip folder 
-- games Excel file 
+- games Excel file
+  
 ANALYSE 
 - ORGANISED 
 - Analysed_Organised_Data_Metrics_Tables 
 - UNORGANISED 
 - Analysed_Unorganised_Metrics_Tables Excel File 
 - Queries_For_Analysis folder 
-- Query Questions Excel files 
+- Query Questions Excel files
+  
 SHARE 
 - CASE_STUDY_SEQUENCE folder 
 - Lichess_Games_Project 
